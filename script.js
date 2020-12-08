@@ -1,5 +1,5 @@
 // colors to show randomly
-const colors = ["green", "red", "purple", "grey", "rgba(133, 122, 200, 1)", "#f15025"];
+const colors = ["green", "red", "purple", "grey", "aquamarine", "blue", "burlywood", "brown", "cadetblue", "chocolate", "coral", "cyan", "#f15025"];
 const btn = document.getElementById("btn");
 const color = document.querySelector(".color");
 
